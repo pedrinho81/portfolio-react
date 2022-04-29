@@ -15,7 +15,7 @@ function Card() {
                     <p className='text-xl sm:text-2xl font-semibold text-gray-900'>
                         Pedro Henrique
                     </p>
-                    <p className='text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
+                    <p className='text-sm sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
                         FullStack Developer
 
                     </p>
@@ -32,7 +32,7 @@ function Card() {
                             <FaWhatsapp />
                             <span className="sr-only">WhatsApp</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-black-500 hover:bg-red-900 rounded-full hover:text-white transition-colors duration-300" href="mailto:1pedrohenri@gmail.com" mailTo target="_blank" rel="noreferrer">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-black-500 hover:bg-red-900 rounded-full hover:text-white transition-colors duration-300" href="mailto:1pedrohenri@gmail.com" target="_blank" rel="noreferrer">
                             <FaEnvelope />
                             <span className="sr-only">E-mail</span>
                         </a>

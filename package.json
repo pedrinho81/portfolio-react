@@ -13,6 +13,8 @@
     "react-dom": "^18.1.0",
     "react-icons": "^4.3.1",
     "react-scripts": "5.0.1",
+    "react-scroll-into-view": "^1.12.0",
+    "scroll-into-view": "^1.16.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "web-vitals": "^2.1.4"
   },
