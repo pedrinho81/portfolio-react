@@ -1,11 +1,11 @@
 import React from "react"
-import profile from "../images/memoji-me.png"
+import profile from "../images/memoji-me.jpeg"
 import { FaGithub, FaLinkedin, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
 
 
 function Card() {
     return (
-        <div className="w-full">
+        <div data-aos="fade-down" data-aos-duration="800" className="w-full">
             <div className='flex flex-col justify-center max-w-xs mx-auto bg-white shadow-2xl rounded-xl p-5'>
                 <div className="">
                     <img className="w-32 mx-auto shadow-xl rounded-full drop-shadow-sm" src={profile} alt="profile face" />
@@ -32,7 +32,7 @@ function Card() {
                             <FaWhatsapp />
                             <span className="sr-only">WhatsApp</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-black-500 hover:bg-red-900 rounded-full hover:text-white transition-colors duration-300" href="mailto:1pedrohenri@gmail.com" target="_blank" rel="noreferrer">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-[#EA4335] hover:bg-[#FF9800] rounded-full hover:text-white transition-colors duration-300" href="mailto:1pedrohenri@gmail.com" target="_blank" rel="noreferrer">
                             <FaEnvelope />
                             <span className="sr-only">E-mail</span>
                         </a>

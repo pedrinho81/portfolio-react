@@ -4,13 +4,13 @@ import {FaChevronDown} from "react-icons/fa"
 
 function About() {
     return (
-        <div className="max-w-4xl mt-20 mx-auto">
+        <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="400"className="max-w-4xl mt-20 mx-auto">
             <p className="text-2xl text-black md:text-4xl font-bold text-center">
                 Olá 👋
             </p>
             <p className="text-base sm:text-xl text-center text-gray-600 leading-relaxed mt-4">
             Apaixonado por tecnologia em
-busca de oportunidade para
+busca de uma oportunidade para
 atuar como desenvolvedor Full
 Stack. Possuo foco na
 linguagem JavaScript e

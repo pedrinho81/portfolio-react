@@ -2,7 +2,13 @@ import React from "react";
 import Card from "./components/Card"
 import About from "./components/About"
 import Skills from "./components/Skills"
+import ContactMe from "./components/Contact"
 import Footer from "./components/Footer"
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init()
+
 
 function App() {
   return (
@@ -10,6 +16,7 @@ function App() {
   <Card/>
   <About/>
   <Skills/>
+  <ContactMe/>
   <Footer/>
 </div>
   );
