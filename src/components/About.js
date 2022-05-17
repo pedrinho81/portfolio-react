@@ -20,7 +20,7 @@ NodeJs.
             <ScrollIntoView selector="#tech">
   
                 <div className="mx-auto p-20">
-                    <FaChevronDown className="animate-bounce mx-auto text-3xl text-blue-500"/>
+                    <FaChevronDown cursor="pointer" className="animate-bounce mx-auto text-3xl text-blue-500"/>
                 </div>  
 </ScrollIntoView>
         

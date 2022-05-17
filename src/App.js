@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./components/Card"
 import About from "./components/About"
 import Skills from "./components/Skills"
+import Projects from "./components/Projects"
 import ContactMe from "./components/Contact"
 import Footer from "./components/Footer"
 import AOS from 'aos';
@@ -16,6 +17,7 @@ function App() {
   <Card/>
   <About/>
   <Skills/>
+  <Projects/>
   <ContactMe/>
   <Footer/>
 </div>
