@@ -1,5 +1,5 @@
 import React from "react"
-import profile from "../images/memoji-me.PNG"
+import profile from "../images/memoji-me.png"
 import IconsData from "../database/IconsData";
 
 function Card() {
