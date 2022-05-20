@@ -3,6 +3,17 @@
 @tailwind utilities;
 
 
+.animate-slide {
+    animation: slide 1s infinite;
+}
+@keyframes slide {
+  10% {
+    transform: translate3d(0,0,0);
+  }
+  55% {
+    transform: translate3d(-10%,0,0);  
+  }
+}
 /* Hide scrollbar for Chrome, Safari and Opera */
 .overflow-scroll::-webkit-scrollbar {
     display: none;

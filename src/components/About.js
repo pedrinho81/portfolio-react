@@ -9,19 +9,16 @@ function About() {
                 Olá 👋
             </p>
             <p className="text-base sm:text-xl text-center dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
-                Meu nome é pedro, tenho 20 anos, atualmente resido em Recife, e em torno de 2 tive o primeiro contato com a programação e desde então venho me aperfeiçoando intensivamente, com o objetivo de me tornar um desenvolvedor web.
-                <p className="mt-2">
-                Sou uma pessoa bem empenhada, focada nos meus objetivos e além de julgar ter uma boa capacidade de aprendizado, vejo que esta competência pode contribuir bastante para a resolução de problemas e para pesquisas de novas soluções atualmente e futuramente no ambiente de trabalho.
-                </p>
+                Meu nome é Pedro, tenho 20 anos, atualmente resido em Recife, em torno de 2 anos tive o primeiro contato com a programação e desde então venho me aperfeiçoando intensivamente, com o objetivo de me tornar um desenvolvedor web.
+            </p>
+            <p className="text-base sm:text-xl text-center dark:text-zinc-300 text-gray-600 leading-relaxed mt-2">
+                Sou uma pessoa bem empenhada, focada nos meus objetivos, julgo ter uma boa capacidade de aprendizado, vejo que esta competência pode contribuir bastante para a resolução de problemas e para pesquisas de novas soluções atualmente e futuramente no ambiente de trabalho.
             </p>
             <ScrollIntoView selector="#tech">
-
                 <div className="mx-auto p-20">
                     <FaChevronDown cursor="pointer" className="animate-bounce mx-auto text-3xl text-blue-500" />
                 </div>
             </ScrollIntoView>
-
-
         </div>
 
     )

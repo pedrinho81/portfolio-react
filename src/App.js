@@ -9,10 +9,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Switcher from "./components/Switcher";
 
-
-
 AOS.init()
-
 
 function App() {
   return (

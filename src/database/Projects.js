@@ -7,7 +7,6 @@ import GitThumb from "../images/git-thumb.png"
 
 
 
-
 const Projects = [
 
   {

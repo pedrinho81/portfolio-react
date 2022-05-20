@@ -1,8 +1,6 @@
 import React from "react";
 import TechsData from "../database/TechsData"
 
-
-
 function Skills() {
     return (
         <div data-aos="zoom-in-out" className="max-w-4xl mx-auto justify-center py-12" id="tech">

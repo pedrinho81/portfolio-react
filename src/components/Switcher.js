@@ -1,8 +1,6 @@
 import {React, useState} from 'react';
 import useDarkSide from "./hook/useDarkSide";
 import {DarkModeSwitch} from "react-toggle-dark-mode";
-//
-
 
 function Switcher() {
     const [colorTheme, setTheme] = useDarkSide();
@@ -23,7 +21,6 @@ function Switcher() {
             sunColor={"rgb(64 64 64)"}
             />
            </div>
-          
        </div>
     )
 }

@@ -2,8 +2,6 @@ import { SiReact, SiJavascript, SiTailwindcss } from "react-icons/si"
 import { FaNodeJs, FaGitAlt, FaHtml5, FaCss3 } from "react-icons/fa"
 import { DiMysql, DiSass } from "react-icons/di"
 
-
-
 const TechsData = [
     {
         logo: FaHtml5,
