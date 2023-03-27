@@ -12,7 +12,7 @@ function Projects() {
             <h3 className="content-center dark:text-white" > at
               <b className="text-gray-600 dark:text-gray-300">  Melhor Comunicação</b>
             </h3>
-            <p className='text-gray-900 dark:text-white'>Since <b>Jul/22</b>  until <b>today</b></p>
+            <p className='text-gray-900 dark:text-white'>De: <b>Julho de 2022</b>  até: <b>o momento</b></p>
             <p className="text-base text-justify sm:text-xl  dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
              Atualmente atuo na criação e aperfeiçoamento de interfaces do usuário, além de realizar a integração de API's REST .
               <br/>
