@@ -14,7 +14,7 @@ function Card() {
                         Pedro Henrique
                     </p>
                     <p className='text-sm sm:text-base text-gray-600 dark:text-zinc-300 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
-                        FullStack Developer
+                        Desenvolvedor Front End Web/Mobile
                     </p>
                     <div className="flex align-center justify-center mt-4">
                         {IconsData.map((icon, index) => {

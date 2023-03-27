@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./components/Card"
 import About from "./components/About";
 import Skills from "./components/Skills";
-import Projects from "./components/Projects";
+import Projects from "./components/Experience";
 import ContactMe from "./components/Contact";
 import Footer from "./components/Footer";
 import AOS from 'aos';

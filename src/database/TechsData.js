@@ -1,27 +1,56 @@
-import { SiReact, SiJavascript, SiTailwindcss } from "react-icons/si"
-import { FaNodeJs, FaGitAlt, FaHtml5, FaCss3 } from "react-icons/fa"
-import { DiMysql, DiSass } from "react-icons/di"
+import { 
+    SiReact, SiJavascript, SiTailwindcss, SiTypescript, SiNextdotjs, 
+    SiAmazonaws, SiChakraui, SiJest, SiExpo, SiGithub } from "react-icons/si"
+import { FaGitAlt, } from "react-icons/fa"
+import { DiSass, } from "react-icons/di"
 
 const TechsData = [
-    {
-        logo: FaHtml5,
-        name: "HTML5",
-        color: "#e34c26"
-    },
-    {
-        logo: FaCss3,
-        name: "CSS3",
-        color: "#264de4"
-    },
-    {
-        logo: SiJavascript,
-        name: "JavaScript",
-        color: "#F9DC3E"
-    },
     {
         logo: SiReact,
         name: "React",
         color: "#2196f3"
+    },
+    {
+        logo: SiNextdotjs,
+        name: "Next.js",
+        color: "#000"
+    },
+    {
+        logo: SiTypescript,
+        name: "Typescript",
+        color: "#007ACC"
+    },{
+        logo: SiJest,
+        name: "Jest",
+        color: '#910E1B' /* '#C21325' */
+    } ,
+    {
+        logo: SiExpo,
+        name: "Expo",
+        color: "#0E67AD"
+    },
+    {
+        logo: SiJavascript,
+        name: "Javascript",
+        color: "#F9DC3E"
+    },
+ {
+        logo: SiTailwindcss,
+        name: "Tailwind CSS",
+        color: "#00C0A3"
+    },
+
+   
+
+    
+    {
+        logo: DiSass,
+        name: "Sass",
+        color: "#cc6699"
+    },  {
+        logo: SiChakraui,
+        name: "ChakraUi",
+        color: '#5AC9C8'
     },
     {
         logo: FaGitAlt,
@@ -29,25 +58,15 @@ const TechsData = [
         color: "#F34F29"
     },
     {
-        logo: FaNodeJs,
-        name: "NodeJs",
-        color: "#68A063"
-    },
+        logo: SiGithub,
+        name: "Github",
+        color: "#161414"
+},
     {
-        logo: DiMysql,
-        name: "MySQL",
-        color: "#1C4B66"
+        logo: SiAmazonaws,
+        name: "Amazon Web Services",
+        color: "#FF9900"
     },
-    {
-        logo: SiTailwindcss,
-        name: "Tailwind CSS",
-        color: "#00C0A3"
-    },
-    {
-        logo: DiSass,
-        name: "Sass",
-        color: "#cc6699"
-    }
 ]
 
 export default TechsData

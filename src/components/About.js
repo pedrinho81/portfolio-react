@@ -8,11 +8,11 @@ function About() {
             <p className="text-2xl text-black dark:text-white md:text-4xl font-bold text-center">
                 Olá 👋
             </p>
-            <p className="text-base sm:text-xl text-center dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
-                Meu nome é Pedro, tenho 20 anos, atualmente resido em Recife, em torno de 2 anos tive o primeiro contato com a programação e desde então venho me aperfeiçoando intensivamente, com o objetivo de me tornar um desenvolvedor web.
+            <p className="text-base sm:text-xl text-justify dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
+                Como desenvolvedor front-end, meu principal objetivo é criar sistemas escaláveis e de alta performance com as melhores tecnologias do mercado web e mobile, busco sempre entregar soluções de qualidade excepcional para os mais diversos projetos. Desde 2019, venho me dedicando incansavelmente para aprimorar minhas habilidades e agregar valor ao mercado de desenvolvimento.
             </p>
-            <p className="text-base sm:text-xl text-center dark:text-zinc-300 text-gray-600 leading-relaxed mt-2">
-                Sou uma pessoa bem empenhada, focada nos meus objetivos, julgo ter uma boa capacidade de aprendizado, vejo que esta competência pode contribuir bastante para a resolução de problemas e para pesquisas de novas soluções atualmente e futuramente no ambiente de trabalho.
+            <p className="text-base sm:text-xl text-justify dark:text-zinc-300 text-gray-600 leading-relaxed mt-2">
+            Meu comprometimento e dedicação com cada projeto que desenvolvo são valores que me movem e que fazem parte da minha busca constante por excelência e inovação. Estou sempre aberto a novas oportunidades e desafios que me permitam continuar evoluindo como profissional.
             </p>
             <ScrollIntoView selector="#tech">
                 <div className="mx-auto p-20">
