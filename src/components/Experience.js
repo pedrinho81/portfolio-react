@@ -14,7 +14,7 @@ function Projects() {
             </h3>
             <p className='text-gray-900 dark:text-white'>Since <b>Jul/22</b>  until <b>today</b></p>
             <p className="text-base text-justify sm:text-xl  dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
-             Atuo na criação e aperfeiçoamento de interfaces do usuário. além de realizar a integração de API's REST .
+             Atualmente atuo na criação e aperfeiçoamento de interfaces do usuário, além de realizar a integração de API's REST .
               <br/>
               <br/>
               Recentemente, recomendei a migração do projeto existente de JavaScript para TypeScript, com o objetivo de aumentar a escalabilidade, a segurança do código e a manutenção a longo prazo, o qual foi aceito. Por consequência, em conjunto com o time está sendo conquistado aumentar significativamente a eficiência da equipe, reduzir o número de erros de código e melhorar a estabilidade do sistema como um todo.
