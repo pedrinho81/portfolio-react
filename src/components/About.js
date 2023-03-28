@@ -9,10 +9,9 @@ function About() {
                 Olá 👋
             </p>
             <p className="text-base sm:text-xl text-justify dark:text-zinc-300 text-gray-600 leading-relaxed mt-4">
-                Como desenvolvedor front-end, meu principal objetivo é criar sistemas escaláveis e de alta performance com as melhores tecnologias do mercado web e mobile, busco sempre entregar soluções de qualidade excepcional para os mais diversos projetos. Desde 2019, venho me dedicando incansavelmente para aprimorar minhas habilidades e agregar valor ao mercado de desenvolvimento.
-            </p>
+               Entusiasta da tecnologia e sempre buscando novos desafios que possam me moldar como desenvolvedor.            </p>
             <p className="text-base sm:text-xl text-justify dark:text-zinc-300 text-gray-600 leading-relaxed mt-2">
-            Meu comprometimento e dedicação com cada projeto que desenvolvo são valores que me movem e que fazem parte da minha busca constante por excelência e inovação. Estou sempre aberto a novas oportunidades e desafios que me permitam continuar evoluindo como profissional.
+               Abaixo você terá mais informações sobre minhas qualificações e experiências profissionais, espero que goste. 😊
             </p>
             <ScrollIntoView selector="#tech">
                 <div className="mx-auto p-20">

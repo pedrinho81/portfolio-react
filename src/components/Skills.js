@@ -5,6 +5,7 @@ function Skills() {
     return (
         <div data-aos="zoom-in-out" className="max-w-4xl mx-auto justify-center py-12" id="tech">
             <p className="text-black text-2xl dark:text-white sm:text-4xl text-center pt-4 font-bold">Tecnologias</p>
+            <span className='block mx-auto text-center h-1 w-10 rounded bg-blue-500 mt-8'></span>
             <div className="flex justify-center flex-wrap pt-2">
                 {TechsData.map((tech, index) => {
                     return (
