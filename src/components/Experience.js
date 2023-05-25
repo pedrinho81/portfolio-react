@@ -54,10 +54,18 @@ function Projects() {
               com o objetivo de prover informações sobre Unidades Básicas de Saúde do Recife, através da API da mesma, tivemos êxito no objetivo e o resultado foi este: <a href="https://aqui-tem-saude.netlify.app" rel="noreferrer" target="_blank"><b>Aqui Tem Saúde</b></a>
               <br /> Além dos demais projetos:            <br />
               <ul>
-                <li><a href="https://previsao-do-tempo-pedrodev.netlify.app" rel="noreferrer" target="_blank"><b>Previsão do tempo em tempo real</b></a></li>
-                <li><a href="https://teste-front-ph.netlify.app" rel="noreferrer" target="_blank"><b>Crud Melhorcom (o qual foi aprovado)</b></a></li>
-                <li><a href="https://onebitx-pedrodev.netlify.app/" rel="noreferrer" target="_blank"><b>LP Space X</b></a></li>
-                <li><a href="https://github.com/pedrinho81" rel="noreferrer" target="_blank"><b>Github</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://green-acesso.netlify.app/" rel="noreferrer" target="_blank"><b>Rick And Morty</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://lacrei-saude.netlify.app/" rel="noreferrer" target="_blank"><b>Landing Page Lacrei Saúde</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://previsao-do-tempo-pedrodev.netlify.app" rel="noreferrer" target="_blank"><b>Previsão do tempo em tempo real</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://teste-front-ph.netlify.app" rel="noreferrer" target="_blank"><b>Melhor Phones</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://onebitx-pedrodev.netlify.app/" rel="noreferrer" target="_blank"><b>LP Space X</b></a></li>
+                <li className="underline"><span className='inline-block h-1 w-2 rounded bg-blue-500 mt-2 mb-4'/>
+          <a href="https://github.com/pedrinho81" rel="noreferrer" target="_blank"><b>Github</b></a></li>
               </ul>
 
               <br/>
